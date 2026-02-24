@@ -1,4 +1,4 @@
-# SAFE Team Online Ride Request Application
+# SAFE Team Ride Service Web App
 
 A web-based ride request system for students at the University of South Florida (USF) to request nighttime safety rides around campus.
 
