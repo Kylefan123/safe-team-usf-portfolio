@@ -13,11 +13,6 @@ This application modernizes the process by:
 - Improving transparency with real-time updates
 - Enhancing campus safety through structured tracking
 
-
-## Project Overview
-
-The SAFE Team app replaces the traditional call-based method of requesting rides with a user-friendly online interface. Students can log in using their USF credentials, request a ride, view estimated wait times, track request status, and receive notifications—all through a secure, accessible web platform.
-
 ## Features
 
 - **User Authentication**: Secure login with USF credentials
