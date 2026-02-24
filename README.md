@@ -1,6 +1,6 @@
 # SAFE Team Ride Service Web App
 
-A web-based ride request system for students at the University of South Florida (USF) to request nighttime safety rides around campus.
+A Ruby on Rails web application designed to modernize university SAFE Team transportation services.
 
 ## Project Overview
 
@@ -102,20 +102,6 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 - `db` - Database migrations and seeds
 - `spec` - Test files
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b new-feature`
-3. Commit your changes: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin new-feature`
-5. Submit a pull request
-
-## Team Members
-
-- Nahid Amirli
-- Endrit Ngjelina
-- Razim Mammadli
-- Kyle Theodore
 
 ## License
 
