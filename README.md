@@ -2,6 +2,18 @@
 
 A Ruby on Rails web application designed to modernize university SAFE Team transportation services.
 
+## Problem & Impact
+
+Traditional campus SAFE Team ride requests rely on phone calls, leading to long wait times and inefficient dispatching.
+
+This application modernizes the process by:
+
+- Digitizing ride requests
+- Reducing dispatcher workload
+- Improving transparency with real-time updates
+- Enhancing campus safety through structured tracking
+
+
 ## Project Overview
 
 The SAFE Team app replaces the traditional call-based method of requesting rides with a user-friendly online interface. Students can log in using their USF credentials, request a ride, view estimated wait times, track request status, and receive notifications—all through a secure, accessible web platform.
@@ -43,7 +55,7 @@ The SAFE Team app replaces the traditional call-based method of requesting rides
 - Hotwire (Turbo & Stimulus)
 - RSpec for testing
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -57,8 +69,8 @@ The SAFE Team app replaces the traditional call-based method of requesting rides
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/safe_team_app.git
-   cd safe_team_app
+   git clone https://github.com/Kylefan123/safe-team-usf-portfolio.git
+   cd safe-team-usf-portfolio
    ```
 
 2. Install the dependencies:
@@ -105,9 +117,35 @@ This project uses Rubocop for Ruby code style enforcement:
 bundle exec rubocop
 ```
 
-## Deployment
+## 📦 Deployment
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
+
+## 🛠 Tech Stack
+
+**Backend**
+- Ruby 3.2.2
+- Rails 7.0.7
+- PostgreSQL (production)
+- SQLite (development)
+
+**Frontend**
+- Bootstrap 5
+- Hotwire (Turbo & Stimulus)
+
+**Testing & Quality**
+- RSpec
+- RuboCop
+- GitHub Actions (CI)
+
+## 🧠 System Design Highlights
+
+- MVC architecture using Rails conventions
+- Role-based authorization (Student, Driver, Admin)
+- RESTful routing and resource controllers
+- Background processing for ride notifications
+- Database indexing for optimized ride queries
+
 
 ## Project Structure
 
@@ -125,8 +163,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+## Inspiration
 
-- University of South Florida SAFE Team
-- USF Student Government
-- USF IT Department
+Inspired by the University of South Florida SAFE Team transportation service.
+
