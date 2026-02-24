@@ -16,6 +16,24 @@ The SAFE Team app replaces the traditional call-based method of requesting rides
 - **Driver Interface**: Drivers can view and manage ride requests
 - **Admin Dashboard**: Administrators can manage users, rides, and locations
 
+## 📸 Application Screenshots
+
+### Landing Page
+![Landing Page](assets/images/landing.png)
+
+### Login
+![Login](assets/images/log-in.png)
+
+### Sign Up
+![Sign Up](assets/images/sign-up.png)
+
+### Campus Map
+![Map](assets/images/map.png)
+
+### Ride Details
+![Ride Details](assets/images/ride-details.png)
+
+
 ## Technologies Used
 
 - Ruby 3.2.2
